@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BasketBallApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
